@@ -1,0 +1,86 @@
+LAPTOP TROUBLESHOOTING
+
+Problem: Laptop is very slow
+Solutions:
+1. Restart the laptop.
+2. Close unnecessary applications.
+3. Check Task Manager for applications using high CPU or memory.
+4. Delete unnecessary temporary files.
+5. Check available storage space.
+6. Disable unnecessary startup applications.
+7. Scan the computer for malware.
+8. Update the operating system and drivers.
+
+Problem: Laptop battery drains quickly
+Solutions:
+1. Reduce screen brightness.
+2. Close applications running in the background.
+3. Turn on battery saver.
+4. Check which applications consume the most battery.
+5. Update the operating system.
+6. Replace the battery if its health is very poor.
+
+
+NETWORK / WI-FI TROUBLESHOOTING
+
+Problem: Wi-Fi is connected but there is no internet
+Solutions:
+1. Check whether other devices have internet.
+2. Restart the Wi-Fi router.
+3. Disconnect and reconnect Wi-Fi.
+4. Restart the computer or phone.
+5. Check DNS settings.
+6. Run the network troubleshooter.
+7. Contact the Internet Service Provider if the problem continues.
+
+Problem: Wi-Fi is slow
+Solutions:
+1. Move closer to the router.
+2. Restart the router.
+3. Disconnect unused devices.
+4. Check for network interference.
+5. Test the internet speed.
+6. Contact the Internet Service Provider if the problem continues.
+
+
+PRINTER TROUBLESHOOTING
+
+Problem: Printer is offline
+Solutions:
+1. Check that the printer is powered on.
+2. Check the USB or Wi-Fi connection.
+3. Make sure the correct printer is selected.
+4. Restart the printer.
+5. Restart the computer.
+6. Check the printer driver.
+7. Clear stuck print jobs.
+
+Problem: Printer is not printing
+Solutions:
+1. Check paper and ink/toner.
+2. Check the printer connection.
+3. Clear the print queue.
+4. Restart the printer.
+5. Check the printer driver.
+
+
+MOBILE PHONE TROUBLESHOOTING
+
+Problem: Phone is overheating
+Solutions:
+1. Close unnecessary applications.
+2. Remove the phone from direct sunlight.
+3. Stop intensive applications or games.
+4. Remove the charger if the phone becomes unusually hot while charging.
+5. Restart the phone.
+6. Update the operating system and applications.
+7. If overheating continues, contact an authorized service center.
+
+Problem: Phone battery drains quickly
+Solutions:
+1. Reduce screen brightness.
+2. Close unnecessary background applications.
+3. Enable battery saver.
+4. Check battery usage.
+5. Disable unnecessary location and connectivity features.
+6. Update applications and the operating system.

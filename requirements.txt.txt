@@ -1,0 +1,4 @@
+langflow==1.12.1
+lfx-bundles==1.1.23
+chromadb==1.5.9
+faiss-cpu
